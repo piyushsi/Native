@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="61px" viewBox="0 0 67 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M33.1594096,0.0585558047 C51.2964643,0.0585558047 65.9998514,13.6711977 65.9998514,30.4636747 C65.9998514,47.2555087 51.2964643,60.8687294 33.1594096,60.8687294 C15.0220761,60.8687294 0.318689021,47.2555087 0.318689021,30.4636747 C0.318689021,13.6711977 15.0220761,0.0585558047 33.1594096,0.0585558047 Z" id="path-1"></path>
+        <rect x="24.4182932" y="6.85392746" width="17" height="45" id="rect-3"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Altcampus-Landing-Page" transform="translate(-291.000000, -3142.000000)">
+            <g id="Program-detail" transform="translate(-4.000000, 2751.000000)">
+                <g id="Group-17" transform="translate(122.000000, 157.000000)">
+                    <g id="Group-18" transform="translate(0.000000, 82.000000)">
+                        <g id="Program-Briefs">
+                            <g id="Group-7">
+                                <g id="Group-13" transform="translate(84.000000, 151.000000)">
+                                    <g id="WebTechIcons">
+                                        <g id="Group-10" transform="translate(89.232734, 1.000000)">
+                                            <g id="Ellipse-1-copy" transform="translate(0.035437, 0.000000)">
+                                                <g id="Group-23">
+                                                    <mask id="mask-2" fill="white">
+                                                        <use xlink:href="#path-1"></use>
+                                                    </mask>
+                                                    <use id="Ellipse-1-copy" fill="#F0F0F0" xlink:href="#path-1"></use>
+                                                    <g id="Layer-4" mask="url(#mask-2)">
+                                                        <image x="24.4182932" y="6.85392746" width="17" height="45" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAApCAYAAAA4c3k5AAAAAXNSR0IArs4c6QAABLhJREFUSA2dVm9MG2UYf++9u7a0/Cnyd2x1YxuyQbZMLAxJNEG3ZE5jNDHIPhJnSNRscXESYzQkLDFZ4rYssAS/zGwaZyUzftiUZAbJcBgCDEIQlIEbxYHSQcufXtvr3fk8d7S05e5YfD707p73eX7P7/09z71XQjaxb/ovHPSMtqVvEkaoWUDHH+17huZ+vRTyy1VmcbhmCNTa11TeP9152RuYqBie7j7V1tVsykoXqOuvjj3j/w58NR/8u9rOp5MHvomXff7ZMx6PhzVitgFofL6nqOve918GI4EDVjaNUJYSSjky7O09+TDrbvNjAQ3PdTp+GPv63P3A2EEbZ4cchTDwy7Ec4QDs9p83m67eudioB5bEaHh26O2x+b4303jHGgRDFEBSIJNlecznO0e+/exqz7nnUsHiQNdGzu8dmus+xVGeUAalwHSNESYpikIsnJWshALZvZO3zt4au56D/pipQBDETC9OnAgIPhfPWmENQdYv6v40D7HyNjIXmKn+3TuQtEUV6LuRixXTgfFjyIYkZiXda0jIloHt3n3Q886V3vN71/C1OfIuTdQL0dUs7E6cjRqhbQ0FXzfcoo34Q4+2en2Tx2J+CuNfOLfiPUqZuFyxNcMrA0xZwpGp+bH6G32XCzGQ+oIzVcvhhd1U3dbGXE3yZL8CGvKchSwFF3ZP+ScOqUDQheejsmihOnokp6c+MURSJMbrn3pdBQI2z6z1KDVyk2dFHdJHy/883frzme1UEFcKtbnRz2OgRclir8cxoOtKaKlIkQU3jcjhfIr9/B+GRSRFtgYEfymVZMlpXFNDNyqDebi2JCy6qKzIoLNR6GPQhNSQtJqrDo85I2y2icGiFI3aQR7TMHhjoIwpYzwhUHZ4S8xrYiGTYrA1qjAChfMvhEeEnmnemKR6EVhDJnZLho9aOdusQmSDqOSzIDUId4LFchz596mDz/TCCKTGqM/YSy3YgDGwgWEWHTbnJM2wZt9GLY11Qjh9Q0kcaZmzjEQGaV76th9trH0J5skgGtw6hFA5SY6S/PQtg+8eab5HFeeWgVx7Ubcki5ChUx2q6uCoO4BtKcV5ZdeQAW0obgg96Sz9gqMWCY4F9CUZNjS1qcgmEo2QLHvOgJU4OjFBnWxRye/c6SzriEphcCWwAvFUPimUsCALg/NUwf62htr3/XGgRnejWFl0uCXT9sTDiBQEqAQw9cOWjBQSg2RnXtnNyh3VHQiCFj+oXyh5Y3RfYc1HlOHDcGKqYDhfNiaDsAwHzGTVFxYFmJuCmQOu6k9qy+tWNJgEIHS8VfHplRrXS5+LsEUZ6GN7s7kCwlOrKnhUjuAUCzW7Dp2uf/a9wRgIXuOMYs59FUeagdmlcFQgmFhgcREHm0lESYB2S5GqXS9+eLz2Y7VTsRxdIDfjFkuKy0+X5O6/AB9gJY/fTlz2UvxqLJRtdZ88cbilNREgdp+gasylXdv72/n55d+a3NJrLXY2Y7Fv9afjH7xy9npy1PqTIRCGeO540lyRbf2chZusrKl6dT1t490GjRJD6mrqBBje0YgoeBP9evemQJgAbfdD93BSTW1TIOw7Q6nTFAUW8e+HqSmU+QUmPd80CBb/A/w9whp6vIvcAAAAAElFTkSuQmCC"></image>
+                                                        <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-3"></use>
+                                                    </g>
+                                                </g>
+                                                <g id="Layer-4" transform="translate(24.418293, 6.853927)"></g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

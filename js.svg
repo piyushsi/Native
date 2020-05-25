@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="61px" viewBox="0 0 67 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M33.174121,0.0585558047 C51.3114545,0.0585558047 66.0148416,13.6711977 66.0148416,30.4636747 C66.0148416,47.2555087 51.3114545,60.8687294 33.174121,60.8687294 C15.0370664,60.8687294 0.333679244,47.2555087 0.333679244,30.4636747 C0.333679244,13.6711977 15.0370664,0.0585558047 33.174121,0.0585558047 Z" id="path-1"></path>
+        <rect x="0.236567047" y="0" width="116.603982" height="83.1568282" id="rect-3"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Altcampus-Landing-Page" transform="translate(-482.000000, -3147.000000)">
+            <g id="Program-detail" transform="translate(-4.000000, 2756.000000)">
+                <g id="Group-17" transform="translate(122.000000, 157.000000)">
+                    <g id="Group-18" transform="translate(0.000000, 82.000000)">
+                        <g id="Program-Briefs">
+                            <g id="Group-7">
+                                <g id="Group-13" transform="translate(84.000000, 152.000000)">
+                                    <g id="WebTechIcons">
+                                        <g id="Group-5" transform="translate(280.496156, 0.000000)">
+                                            <g id="Ellipse-1-copy-3" transform="translate(0.043065, 0.000000)">
+                                                <mask id="mask-2" fill="white">
+                                                    <use xlink:href="#path-1"></use>
+                                                </mask>
+                                                <use fill="#B6B6B6" xlink:href="#path-1"></use>
+                                                <g id="Group-4" mask="url(#mask-2)">
+                                                    <g transform="translate(-28.306596, -12.103711)" id="Layer-6">
+                                                        <g>
+                                                            <image x="0.236567047" y="0" width="116.603982" height="83.1568282" xlink:href="data:image/png;base64,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"></image>
+                                                            <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-3"></use>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
